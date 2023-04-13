@@ -42,7 +42,7 @@
 						<workers>${Cloud.worker}</workers>
 						<workerType>${Cloud.workerType}</workerType>
 						<properties>
-							<key>value</key>
+							<key>Cloud.key</key>
 							<http.port>${http.port}</http.port>
 						</properties>
 					</cloudHubDeployment>
