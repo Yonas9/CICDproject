@@ -13,5 +13,6 @@ Cloud:
   runtime: "4.4.0"
   key: "Mule"
   enviroment: "sandbox"
+  bg: "SelfTaught"
   
   

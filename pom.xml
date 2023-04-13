@@ -41,6 +41,7 @@
 						<ObjectStoreV2>true</ObjectStoreV2>
 						<workers>${Cloud.worker}</workers>
 						<workerType>${Cloud.workerType}</workerType>
+						<businessGroup>${Cloudhub.bg}</businessGroup>
 						<properties>
 							<key>Cloud.key</key>
 							<http.port>${http.port}</http.port>
