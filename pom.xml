@@ -35,7 +35,7 @@
 						<muleVersion>${Cloud.runtime}</muleVersion>
 						<username>${Cloud.username}</username>
 						<password>${Cloud.password}</password>
-						<applicationName>${Cloudhub.applicationName}</applicationName>
+						<applicationName>${Cloud.applicationName}</applicationName>
 						<environment>${Cloud.environment}</environment>
 						<region>${Cloud.region}</region>
 						<ObjectStoreV2>true</ObjectStoreV2>
