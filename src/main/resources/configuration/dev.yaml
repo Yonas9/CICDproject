@@ -6,7 +6,7 @@ http:
 Cloud:
   username: "DevMax"
   password: "MuleMax2021"
-  applicationName: "HelloMule2021"
+  app: "HelloMule2021"
   worker: 1
   workerType: "MICRO"
   region: "us-east-2"

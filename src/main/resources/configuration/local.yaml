@@ -1,3 +1,16 @@
 http:
   host: "0.0.0.0"
   port: "8081"
+ 
+ 
+Cloud:
+  username: "DevMax"
+  password: "MuleMax2021"
+  app: "HelloMule2021"
+  worker: 1
+  workerType: "MICRO"
+  region: "us-east-2"
+  runtime: "4.4.0"
+  key: "Mule"
+  enviroment: "sandbox"
+  bg: "SelfTaught"
